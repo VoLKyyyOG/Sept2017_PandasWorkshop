@@ -2,7 +2,7 @@
 
 Pandas is a Python package for visualising, cleaning and analysing spreadsheet-type data inside the programming language Python. 
 
-This Pandas workshop will be running from 10am - 3pm on Friday 1st September, at the CoLab training space, also known as __Room 329, Level 3, Eastern Resource Centre, Building 171__. Enter at the glass doors next to the kiosk, "Resource cafe", head to the back of the lobby (keep the ERC library entrance on your left) and enter the glass door at the back right.
+This Pandas workshop will be running from 10am - 3pm on Friday 1st September, at the CoLab training space, also known as __Room 329, Level 3, Eastern Resource Centre, Building 171__. Enter the ERC at the glass doors to the left of the kiosk, "Resource cafe", head to the back of the lobby (keep the ERC library entrance on your left). Colab will be inside the glass door at the back right of the "Colab VIP Lounge". 
 
 This workshop is designed for those trying to explore and learn about the Python package Pandas for the first time. The content is suitable for a range of learners, though users will preferably already have some familiarity with Python. 
 
